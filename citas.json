@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Bo",
+    "edad": "1 año",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "sarna"
+  }
+]
